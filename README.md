@@ -11,8 +11,8 @@ This is a Spotify clone website built using HTML, CSS, and JavaScript where user
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## How to Use
